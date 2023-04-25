@@ -6,5 +6,9 @@
   * 🖨️ 3D Printing enthusiast
   * ❤️ Tinkerer at heart
 
-#### 📫 How to reach me
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rouben-rehman-098ab220a/)
+#### 🔎 Where to find me
+- [![My Skills](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rouben-rehman-098ab220a/)
+- [Printables](https://www.printables.com/de/@RoubenR_450428)
+
+#### 🧰 The stuff I use
+[![My Skills](https://skillicons.dev/icons?i=ts,python,matlab,postman,raspberrypi)](https://github.com/RoubenRehman)
